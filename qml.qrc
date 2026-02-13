@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ArcSoundSliderSciFi.qml</file>
+        <file>SciFiToggleButton.qml</file>
+    </qresource>
+</RCC>
